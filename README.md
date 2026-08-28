@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loire-maru&show_icons=true&theme=synthwave&hide_border=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loire-maru&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" width="45%" />
 </div>
 
 ---
