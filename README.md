@@ -3,7 +3,7 @@
   <!-- Animated Aesthetic GIF Header -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y2dWJocmkybXZoYmExNDM1ZHdva2k1bnpjcHQxeTF3ZGxsZnU3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Coding Vibe GIF" />
 
-  <h1>✨ Hello World, I'm Reni's Suze]! ✨</h1>
+  <h1>✨ Hello World, I'm [Reni's Suze]! ✨</h1>
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
